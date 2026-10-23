@@ -271,6 +271,7 @@ Related list: [awesome-ios](https://github.com/tborychowski/awesome-ios)
 - [MacUpdater](https://www.corecode.io/macupdater) ★★★ 🔗 - Keep all applications up to date (Paid: $15).
 - [PasteBot](https://tapbots.com/pastebot/) ★★★ 🔗 - best clipboard manager (Paid: $13)
 - [Pearcleaner](https://itsalin.com/appInfo/?id=pearcleaner) ★★★ 🔗 - AppCleaner alternative. Quite good and has CLI.
+- [MacClean](https://thulem.com/) ★★★ 🔗 - Native Mac cleaner for WeChat/QQ/WeCom junk, Storage Map disk usage, and Xcode/AI caches (Freemium; Lifetime ¥98 / Thulem).
 - [PopClip](https://pilotmoon.com/popclip/) ★★★ 🔗 - popover on selected text (like on iOS but better) (Paid: $19)
 - [ProcessSpy](https://process-spy.app/) ★★★ 🔗 - shows all processes and the actually useful details (like command) (Paid: $7)
 - [ScreenFocus](https://www.apptorium.com/screenfocus) ★★★ 🔗 - dim other monitors when not needed (Paid: $8)
